@@ -1,0 +1,12 @@
+Analysing the data and patterns of a bike-rental company and estimating the count of bikes that would be rented per hour.
+The data set contains parameters:	
+season borrowed
+date yr	mnth	hr 
+Rented on a holiday	or not
+Rented on a weekday	or not 
+Rented on a workingday or not	
+temperature 
+humidity
+windspeed	
+registered	
+count of bikes rented per hour
