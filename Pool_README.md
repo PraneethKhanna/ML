@@ -1,4 +1,0 @@
- pool.py file contains opencv program for drawing contours on exracted image.
- Box contour, Hull contour, Min bound rectangle are demonstrated.
- The hull contours fits the table perfectly by considering proper interest points. Even though table image is at a skewed angle.
-+** img src https://www.wikihow.com/Break-in-9-Ball
