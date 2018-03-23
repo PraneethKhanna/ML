@@ -1,4 +1,5 @@
-Analysing the data and patterns of a bike-rental company and estimating the count of bikes that would be rented per hour.
+Analysing the data and patterns of a bike-rental company using KNN, Linear regressor Laso and ridge models. 
+Objective is to estimate the count of bikes that would be rented per hour.
 The data set contains parameters:	
 season borrowed
 date yr	mnth	hr 
