@@ -1,0 +1,9 @@
+carTrainData contains sample of car evaluations. The attributes measure the following:
+
+v1 corresponds to buying price:   vhigh, high, med, low.
+v2 corresponds to maintenance cost:    vhigh, high, med, low.
+v3 corresponds to doors:    2, 3, 4, 5more.
+v4 corresponds to persons:  2, 4, more.
+v5 corresponds to lug_boot: small, med, big.
+v6 corresponds to safety:   low, med, high.
+v7 corresponds to the sentiment associated with it.
