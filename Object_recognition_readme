@@ -1,0 +1,8 @@
+Detecting "Temoc"- UTD mascot on live video.(https://www.utdallas.edu/mascot/)
+Using SiFT features to make a KMEANS machine learning model.
+Steps:
+1.Extract features  from images,
+2.Create bag of Vocabulary,
+3.Cluster the features,
+4.Fit the features to machine learning model,
+5.Predicting the temoc on live video. 
