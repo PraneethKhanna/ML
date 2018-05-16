@@ -1,0 +1,19 @@
+The objective is to create a Deep-learning model based on CNN for image recognition.
+The data-set is from "https://www.superdatascience.com/deep-learning/".  
+
+Dataset contains 8000 training images of cats and dogs with 2000 additional images for testing/validation
+
+The CNN learning is done using Keras and tensor-flow and evaluated using accuracy measure using "adam" optimizer.
+
+Prerequisites: 
+Install anaconda on system and launch spyder.
+"pip install tensorflow"
+"pip install keras"
+
+Setup & RUN: 
+1)Download the files "CNN_test.py", "CNN_train.py" file and image datasets of cats and dogs.
+2)Set the "flow_from_directory" for training to the file location where the training_set has been downloaded.
+3)Set the "flow_from_directory" for testing to the file location where the testing_set has been downloaded.
+4)Set the location where the pickle file should be downloaded.
+5)Or you can directly download the trained pickle file from git-hub for testing purpose. 
+6)For testing a video of dog and cat are downloaded from "https://www.videvo.net/video/cat-hissing-at-camera/7949/"
