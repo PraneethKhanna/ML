@@ -1,0 +1,18 @@
+The objective is to create a machine-learning model from scratch to predict the sentiment of sentences.
+The data-set is from -- Yelp dataset challenge http://www.yelp.com/dataset_challenge  
+
+Dataset contains 1000 lines commenting on amazon cell products and its sentiment values.
+0-Negative sentiment
+1-Positive sentiment
+
+The model is based on Naive Bayes and evaluated using accuracy, precision and recall values
+
+Prerequisites: 
+Install anaconda on system and launch spyder.
+Setup & RUN: 
+1)Download the "Naive.py" file and ".csv" file.
+2)Set the pd.read_csv to the file location where "amazon_cells_labelled.txt" is downloaded.
+3)Run the file.
+
+Anomalies:
+Sentences containing least frequent words are neglected for training.
