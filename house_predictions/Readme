@@ -1,0 +1,14 @@
+The objective is to create a machine-learning model for house price predictons.
+The data-set is from kaggle "https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data" 
+
+Dataset contains 1460 rows and 81 columns describing each feature associated with house pricing.
+
+Prerequisites: 
+Install anaconda on system and launch spyder.
+Setup & RUN: 
+1)Download the "house_predictions.py" file and "House_train.csv" file.
+2)Set the pd.read_csv to the file location where "House_train.csv" is downloaded.
+3)Run the file.
+
+Anomalies:
+The model doesn't predict outliers properly.
