@@ -2,6 +2,8 @@ The objective is to create a machine-learning model for house price predictons.
 The data-set is from kaggle "https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data" 
 
 Dataset contains 1460 rows and 81 columns describing each feature associated with house pricing.
+The model is based on KNNregressor and evaluated using r2_score and RMSE values
+
 
 Prerequisites: 
 Install anaconda on system and launch spyder.
