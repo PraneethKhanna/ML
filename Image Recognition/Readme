@@ -1,0 +1,22 @@
+Detecting "Temoc"- UTD mascot on live video.
+Using SURF features to make a KMEANS machine learning model.
+Steps:
+1.Extract features  from images,
+2.Create bag of Vocabulary,
+3.Cluster the features,
+4.Fit the features to machine learning model,
+5.Predicting the temoc on live video. 
+ 
+Setup:
+install anaconda
+pip install opencv-contrib-python
+Download Temoc images from my github
+
+Run: 
+Change directories for training images and testing video file.
+
+Dataset consists of Temoc images which are cropped after downloaded from google/images and  
+negative sample consists of images of cars, leopards, etc...
+
+A (3x3) window search is done on the video frame to track the estimated position of temoc.
+Which results in rise of complexity and delay of video frames.
